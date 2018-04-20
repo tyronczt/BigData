@@ -7,4 +7,11 @@
 
 ### Kafka学习笔记
 [Kafka本地集群搭建](https://blog.csdn.net/tian330726/article/details/79976325)<br/>
-[Kafka集群的简单使用（shell）](https://blog.csdn.net/tian330726/article/details/79990515)
+[Kafka集群的简单使用（shell）](https://blog.csdn.net/tian330726/article/details/79990515)<br/>
+[Kafka1.1.0集群的简单使用（java）](https://blog.csdn.net/tian330726/article/details/80004959)
+
+
+### 参考资料
+[消息中间件（Kafka/RabbitMQ）收录集](https://blog.csdn.net/u013256816/article/details/54743481)<br/>
+[orchome主页](http://orchome.com/)<br/>
+学习中。。。收录中。。。
